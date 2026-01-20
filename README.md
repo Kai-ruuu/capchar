@@ -1,6 +1,6 @@
 # Capchar
 
-**Capchar** is a simple tool I built to help create reviewers from images by capturing the text and copying it to the clipboard, enabling me to paste it into a flashcards creation website to help me prepare for my exams. It utilizes Tesseract OCR for capturing text from images and python's tkinter library to highlight or select a region to capture.
+**Capchar** is a simple tool I built to help me create reviewers from images by capturing the text and copying it to the clipboard, enabling me to paste it into a flashcards creation website to help me prepare for my exams. It utilizes Tesseract OCR for capturing text from images and python's tkinter library to highlight or select a region to capture.
 
 ## Main Requirement
 - [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) installed at:  
